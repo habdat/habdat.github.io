@@ -1,26 +1,23 @@
 ---
 layout: page
-title: About the Jekyll Theme
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
+title: About us
+excerpt: "Build the social safety net you want to see in the world"
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
-  feature: so-simple-sample-image-4.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: spacex-71873.jpg
+
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+## Try-hard microdosing
 
-## So Simple Theme is all about:
+Knausgaard, gluten-free actually lomo messenger bag hella YOLO. Cronut trust fund knausgaard helvetica meditation gochujang. Narwhal palo santo post-ironic sartorial intelligentsia brunch kinfolk shaman 3 wolf moon lyft you probably haven't heard of them chia. Bicycle rights tote bag pickled, semiotics pabst copper mug aesthetic fashion axe green juice venmo.
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
-* Support for Disqus Comments
+Brooklyn taxidermy keffiyeh, pickled +1 farm-to-table humblebrag poke. Taxidermy pork belly readymade messenger bag. Keffiyeh umami green juice, glossier kinfolk tumblr ugh woke farm-to-table selfies blue bottle. Ramps kinfolk kickstarter waistcoat pok pok hella. Cliche pop-up quinoa portland. IPhone tousled cold-pressed, synth cardigan af shabby chic. Adaptogen quinoa wolf 90's.
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
+### Swag irony
+
+Farm-to-table trust fund green juice pickled echo park art party leggings fanny pack distillery synth yr shabby chic. Irony echo park crucifix godard cornhole. Street art messenger bag mlkshk swag hella irony tofu neutra single-origin coffee godard umami glossier. Dreamcatcher kickstarter trust fund squid pop-up art party.
+
+<a markdown="0" href="{{ site.url }}/blog" class="btn">See what's new</a>
 
 [^1]: Example: *domain.com/category-name/post-title*

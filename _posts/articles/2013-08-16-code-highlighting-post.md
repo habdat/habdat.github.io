@@ -5,9 +5,10 @@ excerpt: "Demo post displaying the various ways of highlighting code in Markdown
 categories: articles
 tags: [sample-post, code, highlighting]
 image:
-  feature: so-simple-sample-image-5.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: automatic3.jpg
+
+
+
 comments: true
 share: true
 modified: 2016-06-01T14:11:53-04:00
